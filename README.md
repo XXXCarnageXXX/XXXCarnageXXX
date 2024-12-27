@@ -1,20 +1,20 @@
 # About Me 👋  
-I'm **Dionisio**, a passionate **Computer Science** graduate with a specialization in **Network Engineering** and a growing expertise in **Cybersecurity**.  
+I'm **Dionisio**, a passionate **Computer Science** graduate with a specialisation in **Network Engineering** and a growing expertise in **Cybersecurity**.  
 I created this GitHub to showcase my learning journey, share personal projects, and contribute to solving real-world problems in the tech space.  
 
 ---
 
 ## What I Do 💻  
 I’m particularly interested in:  
-- **Cybersecurity**: Securing digital landscapes, analyzing threats, and fortifying networks.  
-- **Network Engineering**: Building and optimizing reliable, high-performance network infrastructures.  
+- **Cybersecurity**: Securing digital landscapes, analysing threats, and fortifying networks.  
+- **Network Engineering**: Building and optimising reliable, high-performance network infrastructures.  
 
 ---
 
 ## Why This Page Exists 🌟  
 This GitHub is my space to:  
 - Share personal and collaborative projects that demonstrate my skills and growth.  
-- Connect with like-minded professionals and organizations.  
+- Connect with like-minded professionals and organisations.  
 - Learn and experiment with new tools and technologies to continuously improve.  
 
 ---
